@@ -7,8 +7,8 @@ import org.codehaus.jackson.JsonParseException;
 import org.codehaus.jackson.map.JsonMappingException;
 import org.codehaus.jackson.map.ObjectMapper;
 
-import com.zzy.model.Person;
-import com.zzy.model.Phone;
+import com.zzy.json.model.Person;
+import com.zzy.json.model.Phone;
 
 /**
  * JsonUtil.java 说明：json工具类
